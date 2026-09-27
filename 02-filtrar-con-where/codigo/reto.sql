@@ -1,0 +1,3 @@
+-- Mini-reto: muestra el nombre y el precio de los productos
+-- de la categoría Tecnología que cuesten menos de 30 €.
+-- Escribe tu consulta debajo:

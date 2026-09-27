@@ -15,7 +15,7 @@ No necesitas saber programar ni instalar nada: solo un navegador.
 |---|---|---|---|
 | 00 | Introducción: qué es SQL y qué aprenderás | _próximamente_ | [00-introduccion](00-introduccion) |
 | 01 | Tablas y tu primer SELECT | _próximamente_ | [01-tablas-y-select](01-tablas-y-select) |
-| 02 | Filtrar con WHERE | _próximamente_ | — |
+| 02 | Filtrar con WHERE | _próximamente_ | [02-filtrar-con-where](02-filtrar-con-where) |
 | 03 | Ordenar y limitar | _próximamente_ | — |
 | 04 | Contar, sumar y agrupar | _próximamente_ | — |
 | 05 | Crear y modificar datos | _próximamente_ | — |

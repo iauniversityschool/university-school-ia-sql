@@ -64,4 +64,4 @@ FROM productos;
 
 </details>
 
-⬅️ Anterior: [00 · Introducción](../00-introduccion) · ➡️ Siguiente: 02 · Filtrar con WHERE (próximamente)
+⬅️ Anterior: [00 · Introducción](../00-introduccion) · ➡️ Siguiente: [02 · Filtrar con WHERE](../02-filtrar-con-where)
