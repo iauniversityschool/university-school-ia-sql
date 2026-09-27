@@ -55,4 +55,4 @@ JOIN clientes c ON v.cliente_id = c.id;
 
 </details>
 
-⬅️ Anterior: [05 · Crear y modificar datos](../05-crear-y-modificar-datos) · ➡️ Siguiente: 07 · Proyecto final (próximamente)
+⬅️ Anterior: [05 · Crear y modificar datos](../05-crear-y-modificar-datos) · ➡️ Siguiente: [07 · Proyecto final](../07-proyecto-final)
