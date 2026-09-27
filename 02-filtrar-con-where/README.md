@@ -76,4 +76,4 @@ WHERE categoria = 'Tecnología'
 
 </details>
 
-⬅️ Anterior: [01 · Tablas y tu primer SELECT](../01-tablas-y-select) · ➡️ Siguiente: 03 · Ordenar y limitar (próximamente)
+⬅️ Anterior: [01 · Tablas y tu primer SELECT](../01-tablas-y-select) · ➡️ Siguiente: [03 · Ordenar y limitar](../03-ordenar-y-limitar)

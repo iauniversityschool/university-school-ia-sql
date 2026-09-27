@@ -1,0 +1,2 @@
+-- Mini-reto: muestra los 3 productos más caros (nombre y precio).
+-- Escribe tu consulta debajo:
