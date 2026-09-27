@@ -1,6 +1,6 @@
 # SQL desde cero — University School IA
 
-Material del curso **SQL desde cero** del canal de YouTube **University School IA**.
+Material del curso **SQL desde cero** del canal de YouTube [**University School IA**](https://www.youtube.com/@UniversitySchoolIA).
 No necesitas saber programar ni instalar nada: solo un navegador.
 
 ## Cómo practicar
