@@ -1,0 +1,2 @@
+-- Mini-reto: calcula el stock total de cada categoría
+-- (una fila por categoría). Escribe tu consulta debajo:

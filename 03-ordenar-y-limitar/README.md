@@ -68,4 +68,4 @@ LIMIT 3;
 
 </details>
 
-⬅️ Anterior: [02 · Filtrar con WHERE](../02-filtrar-con-where) · ➡️ Siguiente: 04 · Contar, sumar y agrupar (próximamente)
+⬅️ Anterior: [02 · Filtrar con WHERE](../02-filtrar-con-where) · ➡️ Siguiente: [04 · Contar, sumar y agrupar](../04-contar-sumar-agrupar)

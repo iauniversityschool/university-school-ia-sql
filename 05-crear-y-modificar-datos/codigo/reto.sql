@@ -1,0 +1,2 @@
+-- Mini-reto: añade un producto nuevo con INSERT y luego cámbiale
+-- el precio con UPDATE (recuerda el WHERE). Escribe tus consultas debajo:
