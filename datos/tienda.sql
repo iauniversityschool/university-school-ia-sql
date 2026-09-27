@@ -32,7 +32,8 @@ INSERT INTO clientes (id, nombre, ciudad) VALUES
   (1, 'Ana',    'Madrid'),
   (2, 'Luis',   'Bogotá'),
   (3, 'Sofía',  'Ciudad de México'),
-  (4, 'Carlos', 'Buenos Aires');
+  (4, 'Carlos', 'Buenos Aires'),
+  (5, 'Elena',  'Sevilla');
 
 CREATE TABLE ventas (
   id          INTEGER PRIMARY KEY,

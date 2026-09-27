@@ -62,4 +62,4 @@ WHERE id = 8;
 
 </details>
 
-⬅️ Anterior: [04 · Contar, sumar y agrupar](../04-contar-sumar-agrupar) · ➡️ Siguiente: 06 · Unir tablas con JOIN (próximamente)
+⬅️ Anterior: [04 · Contar, sumar y agrupar](../04-contar-sumar-agrupar) · ➡️ Siguiente: [06 · Unir tablas con JOIN](../06-unir-tablas-con-join)

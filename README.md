@@ -19,7 +19,7 @@ No necesitas saber programar ni instalar nada: solo un navegador.
 | 03 | Ordenar y limitar | _próximamente_ | [03-ordenar-y-limitar](03-ordenar-y-limitar) |
 | 04 | Contar, sumar y agrupar | _próximamente_ | [04-contar-sumar-agrupar](04-contar-sumar-agrupar) |
 | 05 | Crear y modificar datos | _próximamente_ | [05-crear-y-modificar-datos](05-crear-y-modificar-datos) |
-| 06 | Unir tablas con JOIN | _próximamente_ | — |
+| 06 | Unir tablas con JOIN | _próximamente_ | [06-unir-tablas-con-join](06-unir-tablas-con-join) |
 | 07 | Proyecto final: analiza La Tiendita | _próximamente_ | — |
 
 ## La Tiendita

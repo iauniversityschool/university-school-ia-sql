@@ -1,0 +1,2 @@
+-- Mini-reto: muestra el id de cada venta junto al nombre del cliente
+-- que la hizo. Escribe tu consulta debajo:
